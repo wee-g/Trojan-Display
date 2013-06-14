@@ -1,5 +1,5 @@
 /*
-Sketch fuer das ansteuern der Trojan Leuchttafel mittels Spectrum Amalyzer
+Sketch fuer das ansteuern der Trojan Leuchttafel mittels Spectrum Analyzer
 Shield und Transistor Shield
 
 Code Original von Bliptronics.com
